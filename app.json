@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "iTicket",
+    "version": "1.0.1",
+    "icon": "./src/images/iTicket Logo.png",
+    "slug": "iTicket",
+    "sdkVersion": "25.0.0",
+    "android": {
+      "package": "com.lmig.iticket"
+    }
+  }
+}
